@@ -30,7 +30,7 @@
      inkscape:cx="196.75621"
      inkscape:cy="538.44908"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -62,18 +62,6 @@
        height="400"
        width="400"
        style="opacity:0.5" />
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="317.56528"
-       y="632.79846"
-       id="text3790"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3792"
-         x="317.56528"
-         y="632.79846"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Super Retro M54;-inkscape-font-specification:Super Retro M54">HYDRA</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -201,5 +189,17 @@
          id="tspan3808"
          x="173.15633"
          y="672.9873" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="316.7496"
+       y="631.35333"
+       id="text3790"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3792"
+         x="316.7496"
+         y="631.35333"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Super Retro M54;-inkscape-font-specification:Super Retro M54">HYDRA</tspan></text>
   </g>
 </svg>
